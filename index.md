@@ -1,6 +1,4 @@
 
-##### Repositório com informações, cursos e links para eventos relacionados a Governança e Desenvolvimento da Internet.
-
 #### Eventos - Internacional (*possui programas de bolsas para participação*):
 1. [Internet Governance Forum](https://www.intgovforum.org/)  - idioma : *inglês*  
 3. [Programa de Bolsistas ICANN ](https://www.icann.org/fellowshipprogram) - idioma: *inglês*
