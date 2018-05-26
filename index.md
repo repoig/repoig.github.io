@@ -34,4 +34,5 @@
 6. [IX(PTT) Fórum ](http://forum.ix.br/)
 
 
+Sugestões podem ser feitas [aqui](https://docs.google.com/document/d/175umreaInravaXztG2wcWkLf0ibvEKf0R07BfMgntVE/edit?usp=sharing)
 
