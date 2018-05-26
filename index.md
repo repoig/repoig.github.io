@@ -1,4 +1,4 @@
-## Governança e Desenvolvimento da Internet 
+
 ##### Repositório com informações, cursos e links para eventos relacionados a Governança e Desenvolvimento da Internet.
 
 #### Eventos - Internacional (*possui programas de bolsas para participação*):
