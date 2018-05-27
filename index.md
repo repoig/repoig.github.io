@@ -4,6 +4,7 @@
 3. [Programa de Bolsistas ICANN ](https://www.icann.org/fellowshipprogram) - idioma: *inglês*
 4. [Reuniões LACNIC](http://www.lacnic.net/991/1/lacnic/programa-de-becas) - idioma: *português, inglês, espanhol*
 5. [Reuniões IETF](https://www.ietf.org/about/participate/) - idioma: *inglês*
+6. [LACIGF](https://lacigf.org/pt-br/) - idioma - *português,inglês, espanhol*
 
 
 #### Eventos - Nacional (*possui programas de bolsas para participação*)
