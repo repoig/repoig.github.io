@@ -34,6 +34,7 @@
 5. [GTER GTS](http://gtergts.nic.br/)
 6. [IX(PTT) Fórum ](http://forum.ix.br/)
 
+#### Blogs e sites 
 
 Sugestões podem ser feitas no [link](https://docs.google.com/document/d/175umreaInravaXztG2wcWkLf0ibvEKf0R07BfMgntVE/edit?usp=sharing)
 
