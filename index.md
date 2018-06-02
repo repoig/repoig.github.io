@@ -37,7 +37,7 @@
 
 #### Blogs e sites 
 
-### Outros
+#### Outros
 
 Sugestões podem ser feitas no [link](https://docs.google.com/document/d/175umreaInravaXztG2wcWkLf0ibvEKf0R07BfMgntVE/edit?usp=sharing)
 
