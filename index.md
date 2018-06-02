@@ -5,7 +5,7 @@
 4. [Reuniões LACNIC](http://www.lacnic.net/991/1/lacnic/programa-de-becas) - idioma: *português, inglês, espanhol*
 5. [Reuniões IETF](https://www.ietf.org/about/participate/) - idioma: *inglês*
 6. [LACIGF](https://lacigf.org/pt-br/) - idioma - *português,inglês, espanhol*
-7. [Mozilla Festival](https://mozillafestival.org/) - idioma - *inglês* obs: *ajuda de custo para proponentes de atividades*
+7. [Mozilla Festival](https://mozillafestival.org/) - idioma - *inglês* **obs**: *ajuda de custo para proponentes de atividades*
 
 
 #### Eventos - Nacional (*possui programas de bolsas para participação*)
@@ -36,6 +36,8 @@
 6. [IX(PTT) Fórum ](http://forum.ix.br/)
 
 #### Blogs e sites 
+
+### Outros
 
 Sugestões podem ser feitas no [link](https://docs.google.com/document/d/175umreaInravaXztG2wcWkLf0ibvEKf0R07BfMgntVE/edit?usp=sharing)
 
