@@ -6,7 +6,7 @@
 5. [Reuniões IETF](https://www.ietf.org/about/participate/) - idioma: *inglês*
 6. [LACIGF](https://lacigf.org/pt-br/) - idioma - *português,inglês, espanhol*
 7. [Mozilla Festival](https://mozillafestival.org/) - idioma - *inglês* **obs**: *ajuda de custo para proponentes de atividades*
-
+8. [OpenCon](https://apply.opencon2018.org) -  idioma: *inglês*
 
 #### Eventos - Nacional (*possui programas de bolsas para participação*)
 1. [Fórum da Internet no Brasil](http://forumdainternet.cgi.br/index.html) - idioma : *português*
