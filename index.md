@@ -1,12 +1,14 @@
 
 #### Eventos - Internacional (*possui programas de bolsas para participação*):
-1. [Internet Governance Forum](https://www.intgovforum.org/)  - idioma : *inglês*  
+1. [Internet Governance Forum](https://www.intgovforum.org/)  - idioma : *inglês*   
+   * [Youth@IGF 2018](https://www.internetsociety.org/youth/youth-igf-programme/) - idioma: *inglês, espanhol e francês*
 3. [Programa de Bolsistas ICANN ](https://www.icann.org/fellowshipprogram) - idioma: *inglês*
 4. [Reuniões LACNIC](http://www.lacnic.net/991/1/lacnic/programa-de-becas) - idioma: *português, inglês, espanhol*
 5. [Reuniões IETF](https://www.ietf.org/about/participate/) - idioma: *inglês*
+   * [Fellowship to the Internet Engineering Task Force (IETF) Programme](https://www.internetsociety.org/leadership/fellowship-to-ietf/) - idioma: *inglês*
 6. [LACIGF](https://lacigf.org/pt-br/) - idioma - *português,inglês, espanhol*
 7. [Mozilla Festival](https://mozillafestival.org/) - idioma - *inglês* **obs**: *ajuda de custo para proponentes de atividades*
-8. [OpenCon](https://apply.opencon2018.org) -  idioma: *inglês*
+
 
 #### Eventos - Nacional (*possui programas de bolsas para participação*)
 1. [Fórum da Internet no Brasil](http://forumdainternet.cgi.br/index.html) - idioma : *português*
@@ -39,5 +41,6 @@
 
 #### Outros
 
-Sugestões podem ser feitas no [link](https://docs.google.com/document/d/175umreaInravaXztG2wcWkLf0ibvEKf0R07BfMgntVE/edit?usp=sharing)
+
+*Sugestões podem ser feitas no [link](https://docs.google.com/document/d/175umreaInravaXztG2wcWkLf0ibvEKf0R07BfMgntVE/edit?usp=sharing)*
 
