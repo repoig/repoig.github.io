@@ -39,7 +39,7 @@
 
 #### Programas de Bolsas da ISOC abertos
 1. [Youth@IGF 2018](https://www.internetsociety.org/youth/youth-igf-programme/) - idioma: *inglês, espanhol e francês*
-2 . [Fellowship to the Internet Engineering Task Force (IETF) Programme](https://www.internetsociety.org/leadership/fellowship-to-ietf/) - idioma: *inglês*
+2. [Fellowship to the Internet Engineering Task Force (IETF) Programme](https://www.internetsociety.org/leadership/fellowship-to-ietf/) - idioma: *inglês*
 
 
 
