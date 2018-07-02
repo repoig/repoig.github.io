@@ -1,6 +1,6 @@
 
 #### Eventos - Internacional (*possui programas de bolsas para participação*):
-1. [Internet Governance Forum](https://www.intgovforum.org/)  - idioma : *inglês*  
+1. [Internet Governance Forum](https://www.intgovforum.org/)  - idioma : *inglês*   
 3. [Programa de Bolsistas ICANN ](https://www.icann.org/fellowshipprogram) - idioma: *inglês*
 4. [Reuniões LACNIC](http://www.lacnic.net/991/1/lacnic/programa-de-becas) - idioma: *português, inglês, espanhol*
 5. [Reuniões IETF](https://www.ietf.org/about/participate/) - idioma: *inglês*
@@ -37,7 +37,13 @@
 
 #### Blogs e sites 
 
-### Outros
+#### Programas de Bolsas da ISOC abertos
+1. [Youth@IGF 2018](https://www.internetsociety.org/youth/youth-igf-programme/) - idioma: *inglês, espanhol e francês*
+2 . [Fellowship to the Internet Engineering Task Force (IETF) Programme](https://www.internetsociety.org/leadership/fellowship-to-ietf/) - idioma: *inglês*
+
+
+
+
 
 Sugestões podem ser feitas no [link](https://docs.google.com/document/d/175umreaInravaXztG2wcWkLf0ibvEKf0R07BfMgntVE/edit?usp=sharing)
 
