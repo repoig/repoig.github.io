@@ -14,7 +14,7 @@
 
 #### Eventos - Nacional (*possui programas de bolsas para participação*)
 1. [Fórum da Internet no Brasil](http://forumdainternet.cgi.br/index.html) - idioma : *português*
-  *[Youth@ForumBr 2018](https://forumdainternet.cgi.br/atualizacoes/programa-youth-2018) - idioma: *português* *prazo final 05/10*
+  * [Youth@ForumBr 2018](https://forumdainternet.cgi.br/atualizacoes/programa-youth-2018) - idioma: *português* *prazo final 05/10*
 
 #### Cursos:
 1. [ICANN Learn](https://learn.icann.org/) - *Cursos Recomendados*: 
