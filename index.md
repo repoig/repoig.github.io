@@ -2,6 +2,7 @@
 #### Eventos - Internacional (*possui programas de bolsas para participação*):
 1. [Internet Governance Forum](https://www.intgovforum.org/)  - idioma : *inglês*   
    * [Youth@IGF 2018](https://www.internetsociety.org/youth/youth-igf-programme/) - idioma: *inglês, espanhol e francês*
+   * [Youth@IGF 2018 Brasil](https://cgi.br/youth-igf/) - idioma: *português* *prazo final 11/10*
    * [ISOC Ambassadors Programme](https://www.internetsociety.org/leadership/igf-ambassadors/) - idioma: *inglês*
 3. [Programa de Bolsistas ICANN ](https://www.icann.org/fellowshipprogram) - idioma: *inglês*
 4. [Reuniões LACNIC](http://www.lacnic.net/991/1/lacnic/programa-de-becas) - idioma: *português, inglês, espanhol*
@@ -13,6 +14,7 @@
 
 #### Eventos - Nacional (*possui programas de bolsas para participação*)
 1. [Fórum da Internet no Brasil](http://forumdainternet.cgi.br/index.html) - idioma : *português*
+  *[Youth@ForumBr 2018](https://forumdainternet.cgi.br/atualizacoes/programa-youth-2018) - idioma: *português* *prazo final 05/10*
 
 #### Cursos:
 1. [ICANN Learn](https://learn.icann.org/) - *Cursos Recomendados*: 
